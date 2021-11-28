@@ -1,5 +1,12 @@
 # Changelog
 
+### [8.4.2](https://www.github.com/nodejs/node-gyp/compare/v8.4.1...v8.4.2) (2021-11-28)
+
+
+### Miscellaneous
+
+* add minimal SECURITY.md ([#2560](https://www.github.com/nodejs/node-gyp/issues/2560)) ([c2a1850](https://www.github.com/nodejs/node-gyp/commit/c2a185056e2e589b520fbc0bcc59c2935cd07ede))
+
 ### [8.4.1](https://www.github.com/nodejs/node-gyp/compare/v8.4.0...v8.4.1) (2021-11-19)
 
 
